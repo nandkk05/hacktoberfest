@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nand](https://github.com/nandkk05)
+- Place: Punjab, India
+- Bio: Web Developer and Designer
+- Github: [Nand](https://github.com/nandkk05)
